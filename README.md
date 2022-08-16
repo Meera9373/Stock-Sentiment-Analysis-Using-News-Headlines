@@ -9,7 +9,7 @@ Class 0- the stock price stayed the same or decreased.
 
 **About the approach.**
 
-Used Count Vectorizer and TF-IDF Vectorizer and Bag of Words for extracting featues from the headlines.
+Used Count Vectorizer and TF-IDF Vectorizer and Bag of Words for extracting features from the headlines.
 Used Random Forest Classifier, Multinomial Naive Bayes Classifier for analysis.
 
 
